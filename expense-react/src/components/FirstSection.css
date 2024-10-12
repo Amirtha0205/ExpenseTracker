@@ -1,0 +1,23 @@
+/* .MonthCSS{
+    display: block;
+    width:100%;
+} */
+
+.BudgetColumn {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.box-second {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+
+}
